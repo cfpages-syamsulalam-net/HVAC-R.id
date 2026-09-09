@@ -1,40 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/clean-room-serang.html</loc>
-		<lastmod>2026-08-24T11:22:36+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/clean-room-prabumulih.html</loc>
 		<lastmod>2026-08-24T11:22:36+00:00</lastmod>
 		<image:image>
@@ -69,6 +35,49 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/walk-in-chiller-freezer-pulau-taliabu.html</loc>
+		<lastmod>2026-08-24T11:22:36+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/hvac-magetan.html</loc>
 		<lastmod>2026-08-24T11:22:35+00:00</lastmod>
 		<image:image>
@@ -96,56 +105,6 @@
 	<url>
 		<loc>/hvac-parigi-moutong.html</loc>
 		<lastmod>2026-08-24T11:22:35+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/hvac-mamuju.html</loc>
-		<lastmod>2026-08-24T11:22:34+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/hvac-palopo.html</loc>
-		<lastmod>2026-08-24T11:22:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -203,8 +162,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/walk-in-chiller-freezer-sorong-selatan.html</loc>
-		<lastmod>2026-08-24T11:22:33+00:00</lastmod>
+		<loc>/hvac-palopo.html</loc>
+		<lastmod>2026-08-24T11:22:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -221,8 +180,15 @@
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>/hvac-mamuju.html</loc>
+		<lastmod>2026-08-24T11:22:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -233,16 +199,16 @@
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -280,8 +246,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/walk-in-chiller-freezer-jakarta-utara.html</loc>
-		<lastmod>2026-08-24T11:22:32+00:00</lastmod>
+		<loc>/walk-in-chiller-freezer-sorong-selatan.html</loc>
+		<lastmod>2026-08-24T11:22:33+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -391,8 +357,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/clean-room-toba-samosir.html</loc>
-		<lastmod>2026-08-24T11:22:31+00:00</lastmod>
+		<loc>/walk-in-chiller-freezer-jakarta-utara.html</loc>
+		<lastmod>2026-08-24T11:22:32+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -415,13 +381,22 @@
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -465,6 +440,40 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/clean-room-toba-samosir.html</loc>
+		<lastmod>2026-08-24T11:22:31+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -597,31 +606,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-bandar-lampung.html</loc>
-		<lastmod>2026-08-24T11:22:29+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/clean-room-subang.html</loc>
 		<lastmod>2026-08-24T11:22:29+00:00</lastmod>
 		<image:image>
@@ -690,8 +674,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-merauke.html</loc>
-		<lastmod>2026-08-24T11:22:28+00:00</lastmod>
+		<loc>/hvac-bandar-lampung.html</loc>
+		<lastmod>2026-08-24T11:22:29+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -712,6 +696,40 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/clean-room-tabalong.html</loc>
+		<lastmod>2026-08-24T11:22:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -758,7 +776,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/clean-room-tabalong.html</loc>
+		<loc>/hvac-merauke.html</loc>
 		<lastmod>2026-08-24T11:22:28+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
@@ -776,19 +794,10 @@
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -980,74 +989,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/clean-room-deli-serdang.html</loc>
-		<lastmod>2026-08-24T11:22:25+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/clean-room-sungaipenuh.html</loc>
-		<lastmod>2026-08-24T11:22:25+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/walk-in-chiller-freezer-banggai-kepulauan.html</loc>
 		<lastmod>2026-08-24T11:22:25+00:00</lastmod>
 		<image:image>
@@ -1088,6 +1029,74 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/clean-room-sungaipenuh.html</loc>
+		<lastmod>2026-08-24T11:22:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/clean-room-deli-serdang.html</loc>
+		<lastmod>2026-08-24T11:22:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1193,7 +1202,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-majene.html</loc>
+		<loc>/hvac-hulu-sungai-utara.html</loc>
 		<lastmod>2026-08-24T11:22:23+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
@@ -1252,7 +1261,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-hulu-sungai-utara.html</loc>
+		<loc>/hvac-majene.html</loc>
 		<lastmod>2026-08-24T11:22:23+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
@@ -1274,6 +1283,49 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/walk-in-chiller-freezer-ogan-komering-ilir.html</loc>
+		<lastmod>2026-08-24T11:22:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1320,8 +1372,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/walk-in-chiller-freezer-ogan-komering-ilir.html</loc>
-		<lastmod>2026-08-24T11:22:22+00:00</lastmod>
+		<loc>/clean-room-balikpapan.html</loc>
+		<lastmod>2026-08-24T11:22:21+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -1344,22 +1396,13 @@
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1446,40 +1489,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/clean-room-balikpapan.html</loc>
-		<lastmod>2026-08-24T11:22:21+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1576,31 +1585,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-katingan.html</loc>
-		<lastmod>2026-08-24T11:22:19+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/clean-room-bangka.html</loc>
 		<lastmod>2026-08-24T11:22:19+00:00</lastmod>
 		<image:image>
@@ -1632,6 +1616,56 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/hvac-katingan.html</loc>
+		<lastmod>2026-08-24T11:22:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/hvac-sibolga.html</loc>
+		<lastmod>2026-08-24T11:22:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1703,8 +1737,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-sibolga.html</loc>
-		<lastmod>2026-08-24T11:22:18+00:00</lastmod>
+		<loc>/clean-room-pringsewu.html</loc>
+		<lastmod>2026-08-24T11:22:17+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -1721,10 +1755,19 @@
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1762,8 +1805,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/clean-room-pringsewu.html</loc>
-		<lastmod>2026-08-24T11:22:17+00:00</lastmod>
+		<loc>/hvac-pandeglang.html</loc>
+		<lastmod>2026-08-24T11:22:16+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -1780,19 +1823,10 @@
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1846,32 +1880,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-pandeglang.html</loc>
-		<lastmod>2026-08-24T11:22:16+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/clean-room-bangka-selatan.html</loc>
+		<loc>/clean-room-bireuen.html</loc>
 		<lastmod>2026-08-24T11:22:15+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
@@ -1905,7 +1914,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/clean-room-bireuen.html</loc>
+		<loc>/clean-room-bangka-selatan.html</loc>
 		<lastmod>2026-08-24T11:22:15+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
@@ -1964,31 +1973,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-tabalong.html</loc>
-		<lastmod>2026-08-24T11:22:14+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/clean-room-jakarta-pusat.html</loc>
 		<lastmod>2026-08-24T11:22:14+00:00</lastmod>
 		<image:image>
@@ -2020,6 +2004,31 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/hvac-tabalong.html</loc>
+		<lastmod>2026-08-24T11:22:14+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2125,7 +2134,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-trenggalek.html</loc>
+		<loc>/hvac-tebo.html</loc>
 		<lastmod>2026-08-24T11:22:12+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
@@ -2150,7 +2159,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-tebo.html</loc>
+		<loc>/hvac-trenggalek.html</loc>
 		<lastmod>2026-08-24T11:22:12+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
@@ -2286,49 +2295,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/walk-in-chiller-freezer-pulang-pisau.html</loc>
-		<lastmod>2026-08-24T11:22:10+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/hvac-klungkung.html</loc>
 		<lastmod>2026-08-24T11:22:10+00:00</lastmod>
 		<image:image>
@@ -2355,6 +2321,49 @@
 	</url>
 	<url>
 		<loc>/walk-in-chiller-freezer-lampung-utara.html</loc>
+		<lastmod>2026-08-24T11:22:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/walk-in-chiller-freezer-pulang-pisau.html</loc>
 		<lastmod>2026-08-24T11:22:10+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
@@ -2490,31 +2499,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-waropen.html</loc>
-		<lastmod>2026-08-24T11:22:08+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/hvac-jepara.html</loc>
 		<lastmod>2026-08-24T11:22:08+00:00</lastmod>
 		<image:image>
@@ -2540,8 +2524,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-buton-selatan.html</loc>
-		<lastmod>2026-08-24T11:22:07+00:00</lastmod>
+		<loc>/hvac-waropen.html</loc>
+		<lastmod>2026-08-24T11:22:08+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -2599,6 +2583,31 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/hvac-buton-selatan.html</loc>
+		<lastmod>2026-08-24T11:22:07+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/walk-in-chiller-freezer-nunukan.html</loc>
 		<lastmod>2026-08-24T11:22:07+00:00</lastmod>
 		<image:image>
@@ -2642,6 +2651,31 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/hvac-mappi.html</loc>
+		<lastmod>2026-08-24T11:22:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/hvac-banjar.html</loc>
 		<lastmod>2026-08-24T11:22:06+00:00</lastmod>
 		<image:image>
@@ -2667,8 +2701,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-mappi.html</loc>
-		<lastmod>2026-08-24T11:22:06+00:00</lastmod>
+		<loc>/hvac-boyolali.html</loc>
+		<lastmod>2026-08-24T11:22:05+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -2732,31 +2766,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/hvac-boyolali.html</loc>
-		<lastmod>2026-08-24T11:22:05+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2853,65 +2862,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-dairi.html</loc>
-		<lastmod>2026-08-24T11:22:03+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/clean-room-manokwari-selatan.html</loc>
-		<lastmod>2026-08-24T11:22:03+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/walk-in-chiller-freezer-luwu-timur.html</loc>
 		<lastmod>2026-08-24T11:22:03+00:00</lastmod>
 		<image:image>
@@ -2952,6 +2902,99 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/clean-room-manokwari-selatan.html</loc>
+		<lastmod>2026-08-24T11:22:03+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/hvac-dairi.html</loc>
+		<lastmod>2026-08-24T11:22:03+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/clean-room-polewali-mandar.html</loc>
+		<lastmod>2026-08-24T11:22:02+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2998,8 +3041,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/clean-room-polewali-mandar.html</loc>
-		<lastmod>2026-08-24T11:22:02+00:00</lastmod>
+		<loc>/clean-room-boyolali.html</loc>
+		<lastmod>2026-08-24T11:22:01+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -3032,7 +3075,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/clean-room-boyolali.html</loc>
+		<loc>/clean-room-sumba-timur.html</loc>
 		<lastmod>2026-08-24T11:22:01+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
@@ -3106,40 +3149,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/clean-room-sumba-timur.html</loc>
-		<lastmod>2026-08-24T11:22:01+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -3218,6 +3227,40 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/clean-room-malaka.html</loc>
+		<lastmod>2026-08-24T11:21:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/walk-in-chiller-freezer-ogan-komering-ulu-selatan.html</loc>
 		<lastmod>2026-08-24T11:21:59+00:00</lastmod>
 		<image:image>
@@ -3261,40 +3304,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/clean-room-malaka.html</loc>
-		<lastmod>2026-08-24T11:21:59+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/hvac-lombok-tengah.html</loc>
 		<lastmod>2026-08-24T11:21:58+00:00</lastmod>
 		<image:image>
@@ -3322,65 +3331,6 @@
 	<url>
 		<loc>/clean-room-toraja-utara.html</loc>
 		<lastmod>2026-08-24T11:15:29+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/hvac-pegunungan-arfak.html</loc>
-		<lastmod>2026-08-24T11:15:28+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/clean-room-jambi.html</loc>
-		<lastmod>2026-08-24T11:15:28+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -3447,6 +3397,65 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/clean-room-jambi.html</loc>
+		<lastmod>2026-08-24T11:15:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/hvac-pegunungan-arfak.html</loc>
+		<lastmod>2026-08-24T11:15:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/clean-room-gianyar.html</loc>
 		<lastmod>2026-08-24T11:15:27+00:00</lastmod>
 		<image:image>
@@ -3483,74 +3492,6 @@
 	<url>
 		<loc>/walk-in-chiller-freezer-barru.html</loc>
 		<lastmod>2026-08-24T11:15:27+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/hvac-tarakan.html</loc>
-		<lastmod>2026-08-24T11:15:26+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/walk-in-chiller-freezer-subang.html</loc>
-		<lastmod>2026-08-24T11:15:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -3632,6 +3573,74 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/walk-in-chiller-freezer-subang.html</loc>
+		<lastmod>2026-08-24T11:15:26+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/hvac-tarakan.html</loc>
+		<lastmod>2026-08-24T11:15:26+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -3823,40 +3832,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/clean-room-humbang-hasundutan.html</loc>
-		<lastmod>2026-08-24T11:15:23+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/clean-room-bangka-barat.html</loc>
 		<lastmod>2026-08-24T11:15:23+00:00</lastmod>
 		<image:image>
@@ -3891,8 +3866,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/walk-in-chiller-freezer-sijunjung.html</loc>
-		<lastmod>2026-08-24T11:15:22+00:00</lastmod>
+		<loc>/clean-room-humbang-hasundutan.html</loc>
+		<lastmod>2026-08-24T11:15:23+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -3915,22 +3890,13 @@
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -3969,6 +3935,49 @@
 	</url>
 	<url>
 		<loc>/walk-in-chiller-freezer-kudus.html</loc>
+		<lastmod>2026-08-24T11:15:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/walk-in-chiller-freezer-sijunjung.html</loc>
 		<lastmod>2026-08-24T11:15:22+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
@@ -4070,7 +4079,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-siak.html</loc>
+		<loc>/hvac-pohuwato.html</loc>
 		<lastmod>2026-08-24T11:15:20+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
@@ -4129,33 +4138,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-pohuwato.html</loc>
+		<loc>/hvac-siak.html</loc>
 		<lastmod>2026-08-24T11:15:20+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/hvac-kapuas.html</loc>
-		<lastmod>2026-08-24T11:15:19+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -4219,6 +4203,31 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/hvac-kapuas.html</loc>
+		<lastmod>2026-08-24T11:15:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -4306,6 +4315,40 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/clean-room-merangin.html</loc>
+		<lastmod>2026-08-24T11:15:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/clean-room-siak.html</loc>
 		<lastmod>2026-08-24T11:15:17+00:00</lastmod>
 		<image:image>
@@ -4383,8 +4426,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/clean-room-merangin.html</loc>
-		<lastmod>2026-08-24T11:15:17+00:00</lastmod>
+		<loc>/clean-room-bintan.html</loc>
+		<lastmod>2026-08-24T11:15:16+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -4451,40 +4494,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/clean-room-bintan.html</loc>
-		<lastmod>2026-08-24T11:15:16+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/hvac-kutai-kartanegara.html</loc>
 		<lastmod>2026-08-24T11:15:16+00:00</lastmod>
 		<image:image>
@@ -4507,6 +4516,49 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/walk-in-chiller-freezer-labuhanbatu.html</loc>
+		<lastmod>2026-08-24T11:15:15+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -4535,8 +4587,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/walk-in-chiller-freezer-labuhanbatu.html</loc>
-		<lastmod>2026-08-24T11:15:15+00:00</lastmod>
+		<loc>/walk-in-chiller-freezer-trenggalek.html</loc>
+		<lastmod>2026-08-24T11:15:14+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -4625,49 +4677,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/walk-in-chiller-freezer-trenggalek.html</loc>
-		<lastmod>2026-08-24T11:15:14+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -4782,7 +4791,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-gayo-lues.html</loc>
+		<loc>/hvac-labuhanbatu-utara.html</loc>
 		<lastmod>2026-08-24T11:15:12+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
@@ -4807,7 +4816,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-labuhanbatu-utara.html</loc>
+		<loc>/hvac-gayo-lues.html</loc>
 		<lastmod>2026-08-24T11:15:12+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
@@ -4934,40 +4943,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/clean-room-tambrauw.html</loc>
-		<lastmod>2026-08-24T11:15:10+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/walk-in-chiller-freezer-sigi.html</loc>
 		<lastmod>2026-08-24T11:15:10+00:00</lastmod>
 		<image:image>
@@ -5008,6 +4983,40 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/clean-room-tambrauw.html</loc>
+		<lastmod>2026-08-24T11:15:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -5181,6 +5190,40 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/clean-room-lumajang.html</loc>
+		<lastmod>2026-08-24T11:15:07+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/hvac-banggai-laut.html</loc>
 		<lastmod>2026-08-24T11:15:07+00:00</lastmod>
 		<image:image>
@@ -5206,8 +5249,42 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/clean-room-lumajang.html</loc>
-		<lastmod>2026-08-24T11:15:07+00:00</lastmod>
+		<loc>/clean-room-aceh-selatan.html</loc>
+		<lastmod>2026-08-24T11:15:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/clean-room-bengkalis.html</loc>
+		<lastmod>2026-08-24T11:15:06+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -5283,108 +5360,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/clean-room-bengkalis.html</loc>
-		<lastmod>2026-08-24T11:15:06+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/clean-room-aceh-selatan.html</loc>
-		<lastmod>2026-08-24T11:15:06+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/clean-room-berau.html</loc>
-		<lastmod>2026-08-24T11:15:05+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/clean-room-bolaang-mongondow.html</loc>
 		<lastmod>2026-08-24T11:15:05+00:00</lastmod>
 		<image:image>
@@ -5419,8 +5394,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/clean-room-tual.html</loc>
-		<lastmod>2026-08-24T11:15:04+00:00</lastmod>
+		<loc>/clean-room-berau.html</loc>
+		<lastmod>2026-08-24T11:15:05+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -5539,6 +5514,40 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/clean-room-tual.html</loc>
+		<lastmod>2026-08-24T11:15:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/walk-in-chiller-freezer-gunung-mas.html</loc>
 		<lastmod>2026-08-24T11:15:03+00:00</lastmod>
 		<image:image>
@@ -5641,31 +5650,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-tulang-bawang-barat.html</loc>
-		<lastmod>2026-08-24T11:15:02+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/clean-room-tanah-bumbu.html</loc>
 		<lastmod>2026-08-24T11:15:02+00:00</lastmod>
 		<image:image>
@@ -5697,6 +5681,31 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/hvac-tulang-bawang-barat.html</loc>
+		<lastmod>2026-08-24T11:15:02+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -5870,6 +5879,74 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/hvac-mojokerto.html</loc>
+		<lastmod>2026-08-24T11:14:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/walk-in-chiller-freezer-buton-tengah.html</loc>
+		<lastmod>2026-08-24T11:14:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/clean-room-binjai.html</loc>
 		<lastmod>2026-08-24T11:14:59+00:00</lastmod>
 		<image:image>
@@ -5904,33 +5981,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-mojokerto.html</loc>
-		<lastmod>2026-08-24T11:14:59+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/walk-in-chiller-freezer-buton-tengah.html</loc>
-		<lastmod>2026-08-24T11:14:59+00:00</lastmod>
+		<loc>/walk-in-chiller-freezer-merauke.html</loc>
+		<lastmod>2026-08-24T11:14:58+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -6049,8 +6101,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/walk-in-chiller-freezer-merauke.html</loc>
-		<lastmod>2026-08-24T11:14:58+00:00</lastmod>
+		<loc>/hvac-wajo.html</loc>
+		<lastmod>2026-08-24T11:14:57+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -6067,28 +6119,10 @@
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -6132,65 +6166,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/hvac-wajo.html</loc>
-		<lastmod>2026-08-24T11:14:57+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/clean-room-subulussalam.html</loc>
-		<lastmod>2026-08-24T11:14:56+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -6253,8 +6228,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-solok-selatan.html</loc>
-		<lastmod>2026-08-24T11:14:55+00:00</lastmod>
+		<loc>/clean-room-subulussalam.html</loc>
+		<lastmod>2026-08-24T11:14:56+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -6271,10 +6246,19 @@
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -6364,8 +6348,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-batam.html</loc>
-		<lastmod>2026-08-24T11:14:54+00:00</lastmod>
+		<loc>/hvac-solok-selatan.html</loc>
+		<lastmod>2026-08-24T11:14:55+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -6391,6 +6375,81 @@
 	<url>
 		<loc>/hvac-pakpak-bharat.html</loc>
 		<lastmod>2026-08-24T11:14:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/hvac-batam.html</loc>
+		<lastmod>2026-08-24T11:14:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/hvac-gorontalo-2.html</loc>
+		<lastmod>2026-08-24T11:14:53+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/hvac-mamasa.html</loc>
+		<lastmod>2026-08-24T11:14:53+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -6457,90 +6516,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-mamasa.html</loc>
-		<lastmod>2026-08-24T11:14:53+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/hvac-gorontalo-2.html</loc>
-		<lastmod>2026-08-24T11:14:53+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/clean-room-banggai.html</loc>
-		<lastmod>2026-08-24T11:14:52+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/clean-room-karanganyar.html</loc>
 		<lastmod>2026-08-24T11:14:52+00:00</lastmod>
 		<image:image>
@@ -6575,33 +6550,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/hvac-tegal.html</loc>
-		<lastmod>2026-08-24T11:14:51+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/clean-room-bangka-tengah.html</loc>
-		<lastmod>2026-08-24T11:14:51+00:00</lastmod>
+		<loc>/clean-room-banggai.html</loc>
+		<lastmod>2026-08-24T11:14:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -6677,8 +6627,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/clean-room-boven-digoel.html</loc>
-		<lastmod>2026-08-24T11:14:50+00:00</lastmod>
+		<loc>/clean-room-bangka-tengah.html</loc>
+		<lastmod>2026-08-24T11:14:51+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
 		</image:image>
@@ -6708,6 +6658,56 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/hvac-tegal.html</loc>
+		<lastmod>2026-08-24T11:14:51+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/hvac-serdang-bedagai.html</loc>
+		<lastmod>2026-08-24T11:14:50+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-System-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/Refrigeration-Solutions-Servis-2.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
